@@ -4,8 +4,12 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import redstore from "./redstore.png";
+import restro from "./restro.png";
+import fl from "./friendslogy.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,18 +24,27 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png"
+import java from "./tech/java.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import college from "./college.png";
+import Hschool from "./Hschool.png";
+import Sschool from "./Sschool.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import carrent from "./animemerch.png";
+import jobit from "./sanamio.png";
 import tripguide from "./tripguide.png";
 
 export {
   logo,
+  redstore,
+  fl,
+  restro,
+  live,
   backend,
   creator,
   mobile,
@@ -59,4 +72,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  python,
+  java,
+  college,
+  Hschool,
+  Sschool,
 };
