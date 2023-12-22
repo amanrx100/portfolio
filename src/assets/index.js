@@ -37,7 +37,7 @@ import Sschool from "./Sschool.png";
 
 import carrent from "./animemerch.png";
 import jobit from "./sanamio.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./tripguide.jpg";
 
 export {
   logo,
